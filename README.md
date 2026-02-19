@@ -1,137 +1,82 @@
-# 👋 Salut, je suis Yassir !
+# 👋 Hi, I'm Yassir Allouche
 
-### 💼 Étudiant à 42 Paris | En recherche de Stage/Alternance
+**Student at 42 Paris | Career Changer | Looking for Internship/Work-Study**
 
----
-
-## 🚀 À propos de moi
-
-🎓 **Étudiant à [42 Paris](https://42.fr/)** depuis novembre 2025  
-🔄 **En reconversion professionnelle** après 4 ans d'expérience en commerce  
-🎯 **Actuellement** : Tronc Commun - Formation d'Architecte en technologie du Numérique  
-📍 **Localisation** : Paris/Île-de-France  
-
-Passionné par la technologie et les défis techniques, j'ai fait le choix d'une reconversion pour allier apprentissage autodidacte et projets concrets. La pédagogie par projet de 42 me permet de développer des compétences solides en programmation bas niveau et en résolution de problèmes.
+📍 Paris, France | 💼 Available Now | 🎓 Since Nov 2025
 
 ---
 
-## 🎯 Ce que je recherche
+## 🚀 About Me
 
-🔍 **Stage ou Alternance** dans les domaines suivants :
-- 🖥️ **Data Centers** & Infrastructure
-- 🤖 **Intelligence Artificielle** & Machine Learning
-- 🏭 **Industrie 4.0** & Systèmes Embarqués
-- ⚙️ **DevOps** & Automatisation
+I'm a **27-year-old developer in training** at [42 Paris](https://42.fr/), transitioning from 4 years in sales to software development. I'm passionate about **low-level programming**, **problem-solving**, and building efficient systems.
 
-**Pourquoi moi ?**  
-Mon expérience en commerce m'a appris la **gestion de projets**, la **communication client** et le **travail en équipe**. Aujourd'hui, j'applique ces soft skills dans le monde du code avec une approche **rigoureuse** et **orientée solutions**.
+**What I bring:**
+- 💡 Strong **autonomy** and **self-learning** ability from 42's peer-to-peer methodology
+- 🤝 **Communication** and **teamwork** skills from sales experience
+- 🔧 **Rigorous** and **solution-oriented** approach to technical challenges
 
 ---
 
-## 💻 Compétences Techniques
+## 🎯 What I'm Looking For
 
-### Langages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Internship or Work-Study Program** (6-12 months) in:
 
-### Outils & Technologies
-- **Systèmes** : Linux/Unix, Administration système
-- **Versionning** : Git, GitHub
-- **Méthodologie** : Peer-learning, Pair programming, Résolution de problèmes complexes
-
-### Concepts maîtrisés
-- Programmation bas niveau (mémoire, pointeurs, gestion de fichiers)
-- Algorithmes et structures de données
-- Architecture système Unix
-- Debugging et optimisation de code
+🖥️ **Data Centers & Infrastructure** | 🤖 **AI & Machine Learning** | 🏭 **Industry 4.0** | ⚙️ **DevOps**
 
 ---
 
-## 🎓 Formation à 42 Paris
+## 💻 Tech Stack
 
-**La pédagogie de 42** repose sur :
-- 🧠 **Apprentissage par la pratique** : 100% projets
-- 🤝 **Peer-to-peer learning** : Collaboration et évaluation entre étudiants
-- ⏰ **Autonomie totale** : Gestion du temps et des objectifs
-- 🚀 **Défis techniques** : Projets progressifs du bas niveau au haut niveau
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Cette approche développe des compétences essentielles :
-- **Autonomie** et capacité d'apprentissage
-- **Adaptabilité** face à de nouvelles technologies
-- **Collaboration** et code review
-- **Rigueur** dans le développement
+**Core Skills:** Low-level programming • Algorithms • Unix systems • Memory management • Debugging
 
 ---
 
-## 🌍 Langues
+## 📂 My Projects
 
-- 🇫🇷 **Français** - Courant
-- 🇬🇧 **Anglais** - Professionnel
-- 🇸🇦 **Arabe** - Courant
+### 🔹 [Project Name 1](link-to-repo)
+Brief description (1 line) - **Tech:** C, Makefile
 
----
+### 🔹 [Project Name 2](link-to-repo)
+Brief description (1 line) - **Tech:** C++, Shell
 
-## 📫 Me contacter
+### 🔹 [Project Name 3](link-to-repo)
+Brief description (1 line) - **Tech:** C, Unix
 
-💼 **Disponible pour un stage ou une alternance**
-
-📧 **Email** : yassirallouch@gmail.com  
-💼 **LinkedIn** : [linkedin.com/in/yassir-allouche](https://www.linkedin.com/in/yassir-allouche-05b556306/)
+> 💡 *More projects coming soon as I progress through 42's curriculum!*
 
 ---
 
-## 📊 Statistiques GitHub
+## 🌍 Languages
 
-![Statistiques GitHub de Yassir](https://github-readme-stats.vercel.app/api?username=Allouche99&show_icons=true&theme=tokyonight)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Allouche99&layout=compact&theme=tokyonight)
+🇫🇷 French (Native) | 🇬🇧 English (Professional) | 🇸🇦 Arabic (Fluent)
 
 ---
 
-## 🔥 Pourquoi 42 ?
+## 📫 Let's Connect
 
-> *"42 ne vous apprend pas à coder, 42 vous apprend à apprendre."*
-
-Après 4 ans dans le commerce, j'ai choisi 42 pour sa capacité à former des développeurs **autonomes**, **créatifs** et **adaptables**. Cette formation intensive me permet de construire des bases solides en développement système tout en développant une méthodologie de travail professionnelle.
-
----
-
-### ⚡ Fun Facts
-- 🔄 Reconversion réussie : du commerce au code
-- 🌙 Code le mieux tard le soir
-- 🧩 Amateur de résolution de problèmes complexes
-- 🌱 Toujours en apprentissage de nouvelles technologies
+📧 **yassirallouch@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/yassir-allouche-05b556306/)**
 
 ---
 
-*"La meilleure façon de prédire l'avenir est de le créer." - Peter Drucker*
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allouche99&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-🇬🇧 English Summary
+### Why 42?
 
-## About
-Student at 42 Paris since November 2025, career change after 4 years in sales. Currently in the Core Curriculum of the Digital Technology Architecture program.
+> *"42 doesn't teach you to code — it teaches you to learn."*
 
-## Skills
-- **Languages**: C, C++, Shell
-- **Systems**: Linux/Unix, System Administration
-- **Tools**: Git, GitHub
-- **Soft skills**: Project management, communication, teamwork
+42's **project-based, peer-to-peer learning** model develops **autonomy**, **adaptability**, and **real-world problem-solving skills** — exactly what modern tech teams need.
 
-## What I'm looking for
-Internship or work-study program in:
-- Data Centers & Infrastructure
-- Artificial Intelligence & Machine Learning
-- Industry 4.0 & Embedded Systems
-- DevOps & Automation
+---
 
-## Languages
-French (fluent), English (professional), Arabic (fluent)
-
-## Contact
-📧 yassirallouch@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/yassir-allouche-05b556306/)
-
-**Available for internship or work-study program now!**
+💡 *Open to opportunities in Paris/Île-de-France • Career changer with fresh perspective • Ready to contribute*
