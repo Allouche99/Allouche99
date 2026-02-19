@@ -19,7 +19,7 @@ I'm a **27-year-old developer in training** at [42 Paris](https://42.fr/), trans
 
 ## 🎯 What I'm Looking For
 
-**Internship or Work-Study Program** (12-24 months) in:
+**Internship or Work-Study Program** (6-24 months) in:
 
 🖥️ **Data Centers & Infrastructure** | 🤖 **AI & Machine Learning** | 🏭 **Industry 4.0** | ⚙️ **DevOps**
 
