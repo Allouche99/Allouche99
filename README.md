@@ -37,24 +37,7 @@ I'm a **27-year-old developer in training** at [42 Paris](https://42.fr/), trans
 
 ---
 
-## 📂 My Projects
-
-### 🔹 [Project Name 1](link-to-repo)
-Brief description (1 line) - **Tech:** C, Makefile
-
-### 🔹 [Project Name 2](link-to-repo)
-Brief description (1 line) - **Tech:** C++, Shell
-
-### 🔹 [Project Name 3](link-to-repo)
-Brief description (1 line) - **Tech:** C, Unix
-
 > 💡 *More projects coming soon as I progress through 42's curriculum!*
-
----
-
-## 🌍 Languages
-
-🇫🇷 French (Native) | 🇬🇧 English (Professional) | 🇸🇦 Arabic (Fluent)
 
 ---
 
@@ -64,19 +47,3 @@ Brief description (1 line) - **Tech:** C, Unix
 💼 **[LinkedIn](https://www.linkedin.com/in/yassir-allouche-05b556306/)**
 
 ---
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Allouche99&show_icons=true&theme=dark&hide_border=true)
-
----
-
-### Why 42?
-
-> *"42 doesn't teach you to code — it teaches you to learn."*
-
-42's **project-based, peer-to-peer learning** model develops **autonomy**, **adaptability**, and **real-world problem-solving skills** — exactly what modern tech teams need.
-
----
-
-💡 *Open to opportunities in Paris/Île-de-France • Career changer with fresh perspective • Ready to contribute*
